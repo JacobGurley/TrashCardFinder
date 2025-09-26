@@ -60,7 +60,7 @@ On load, the mod waits for the scene to be ready, scans briefly, and:
 
 ## Uninstall
 
-Delete: You can just remove the CardFinder folder with the .dll file, or the contents of the BepInEx folder. I would keep BepInEx and the contents if you plan on using mods in the future.
+Delete: You can just remove the CardFinder folder with the .dll file once you get the reward for finding the cards, or the contents of the BepInEx folder. I would keep BepInEx and the contents if you plan on using mods in the future.
 
 ---
 
