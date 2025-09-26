@@ -27,7 +27,7 @@ Extract the zip into the same folder as `Weed Shop 3.exe`. You should end up wit
 
 **Example layout:**
 
-![Step 2: files next to the game EXE](images/step222.png)
+![Step 2: files next to the game EXE](images/Step222.PNG)
 
 ### 3) Run the game once, Load in a game, Exit Game
 
