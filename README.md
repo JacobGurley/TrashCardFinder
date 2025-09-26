@@ -4,6 +4,9 @@ A simple mod that looks for the **Lil’ Pothead collectible card** in your curr
 - If a card is found, you’ll see an on-screen marker pointing to it.
 - If no card spawned for this save, you’ll get a pop-up message, and the mod goes idle (no hitching/lag).
 
+![Example1](images/Example1.PNG)
+![Example2](images/Example2.PNG)
+
 ---
 
 ## Install
